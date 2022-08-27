@@ -11,20 +11,20 @@
   downolad and run main.bat
   3 optons to choose
   
-  ## M. Kontrola provezbanog / To check results  
-  ### 1. Vezbanje racunskih operacija / To check you math skils  
-  ###  1.1 +   
-      1.2 -  
-      1.3 *  
-      1.4 sve / all  
-      1.5 nazad / back to main  
-    2. Kontrola provezbanog / To check results
-      1. Sabiranje / Addition
-      2. Oduzimanje / subtraction
-      3. Mnozenje / Multiplication
-      4. Sve / All
-      5. Nazad / Back
-    3. Obrisi sacuvana vezbanja / To delete result logs 
+  ### M. Kontrola provezbanog / To check results  
+  #### 1. Vezbanje racunskih operacija / To check you math skils  
+  #####  1.1 +   
+  #####  1.2 -  
+  #####  1.3 *  
+  #####  1.4 sve / all  
+  #####  1.5 nazad / back to main  
+  ####  2. Kontrola provezbanog / To check results
+  #####  2.1. Sabiranje / Addition
+  #####  2.2. Oduzimanje / subtraction
+  #####  2.3. Mnozenje / Multiplication
+  #####  2.4. Sve / All
+  #####  2.5. Nazad / Back
+  ####  3. Obrisi sacuvana vezbanja / To delete result logs 
     
 # Why something like this exist?
   In that time I like to line batch scripting so 
