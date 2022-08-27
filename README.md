@@ -11,9 +11,9 @@
   downolad and run main.bat
   3 optons to choose
   
-  M. Kontrola provezbanog / To check results  
-    * 1. Vezbanje racunskih operacija / To check you math skils  
-      1.1 +   
+  # M. Kontrola provezbanog / To check results  
+  ## 1. Vezbanje racunskih operacija / To check you math skils  
+  ##  1.1 +   
       1.2 -  
       1.3 *  
       1.4 sve / all  
