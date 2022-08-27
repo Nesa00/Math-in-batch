@@ -12,12 +12,12 @@
   3 optons to choose
   
   M. Kontrola provezbanog / To check results  
-    >1. Vezbanje racunskih operacija / To check you math skils  
-      >>1.1 +   
-      1.2 -  
-      1.3 *  
-      1.4 sve / all  
-      1.5 nazad / back to main  
+    ###1. Vezbanje racunskih operacija / To check you math skils  
+      #### 1.1 +   
+      #### 1.2 -  
+      #### 1.3 *  
+      #### 1.4 sve / all  
+      #### 1.5 nazad / back to main  
     2. Kontrola provezbanog / To check results
       1. Sabiranje / Addition
       2. Oduzimanje / subtraction
