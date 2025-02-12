@@ -3,10 +3,6 @@
   This is math script where you can check you basic math skils. 
   Unfortunately guys i'm to lazy to add division so you cn only do +, -, *,
 
-# language
-  I'm sorry but my native language is SERBIAN so all text are writen is serbian
-  language. so if you have some question contact me
-
 # What to do to run
   downolad and run main.bat
   3 optons to choose
